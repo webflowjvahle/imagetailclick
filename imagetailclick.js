@@ -99,7 +99,7 @@ let callback = function (mutationsList) {
             function getRandomInt(max) {
               return Math.floor(Math.random() * max);
             }
-          }, 400);
+          }, 800);
         });
       } else {
         console.log("navLinkImageTail element is not present on the page");
