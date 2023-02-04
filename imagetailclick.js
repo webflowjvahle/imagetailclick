@@ -33,10 +33,10 @@ let callback = function (mutationsList) {
             // Load images from the imageUris array
             let images = [];
             let imageUris = [
-              "https://assets.website-files.com/63a2d168efde7ef4089d65ad/63a2d168efde7e10719d65be_Placeholder_01.svg",
-              "https://assets.website-files.com/63a2d168efde7ef4089d65ad/63a2d168efde7e2fcc9d65c3_Placeholder_02.svg",
-              "https://assets.website-files.com/63a2d168efde7ef4089d65ad/63a2d168efde7ef7349d65bd_Placeholder_03.svg",
-              "https://assets.website-files.com/63a2d168efde7ef4089d65ad/63a2d168efde7e62289d65c2_Placeholder_04.svg",
+              "https://uploads-ssl.webflow.com/63cae0962cb7601218b2fba6/63cae0962cb7606d02b2fbbf_Placeholder_01.svg",
+              "https://uploads-ssl.webflow.com/63cae0962cb7601218b2fba6/63cae0962cb7603961b2fbc7_Placeholder_02.svg",
+              "https://uploads-ssl.webflow.com/63cae0962cb7601218b2fba6/63cae0962cb7604045b2fbbc_Placeholder_03.svg",
+              "https://uploads-ssl.webflow.com/63cae0962cb7601218b2fba6/63cae0962cb76003aeb2fbc0_Placeholder_04.svg",
             ];
             function updateCanvasTailSize() {
               let canvasParentWidth = canvasParent.offsetWidth;
